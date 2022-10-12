@@ -1,4 +1,4 @@
 export const config = {
- api: 'https://santhiyabookmyshow.herokuapp.com'
+ api: 'https://bookmyshoww.herokuapp.com'
 
 }
