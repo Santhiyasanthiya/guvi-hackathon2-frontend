@@ -1,4 +1,4 @@
 export const config = {
- api: 'https://bookmyshoww.herokuapp.com'
+ api: 'https://guvi-hackathon2-backend-beige.vercel.app'
 
 }
